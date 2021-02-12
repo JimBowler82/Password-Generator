@@ -6,7 +6,7 @@ A HTML5, CSS3, and vanilla JavaScript project to build a password generator whic
 2. Option to include a mixture of uppercase characters, lowercase characters, numbers and symbols.
 3. The ability to copy the generated password to the clipboard.
 
-View live [here]()!
+View live [here](https://suspicious-tesla-d95488.netlify.app/)!
 
 ### Screenshot
 
